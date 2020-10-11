@@ -1,5 +1,3 @@
-import { createGlobalStyle } from "styled-components";
+import styled from "styled-components";
 
-export const Container = createGlobalStyle`
-
-`;
+export const Container = styled.div``;
