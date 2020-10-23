@@ -4,24 +4,24 @@ export const Container = styled.div`
   // src/components/Page/styles.ts
 
   .colored:nth-child(1) {
-    background: #f1ffe7;
+    background: #6699cc;
   }
   .colored:nth-child(2) {
-    background: #dfffd9;
+    background: #fff275;
   }
   .colored:nth-child(3) {
-    background: #cdfeca;
+    background: #89bd9e;
   }
   .colored:nth-child(4) {
-    background: #bbfebb;
+    background: #f0c987;
   }
   .colored:nth-child(5) {
-    background: #a9fdac;
+    background: #db4c40;
   }
   .colored:nth-child(6) {
-    background: #90f29c;
+    background: #63696d;
   }
   .colored:nth-child(7) {
-    background: #77e68c;
+    background: #e68b64;
   }
 `;
